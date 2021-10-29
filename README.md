@@ -1,4 +1,4 @@
-## Hey there, I'm Darahaas, BITSG UG CSE. Python and Javascript Developer.
+## Hey there, I'm Darahaas, BITSG UG CSE. 
 
 ![Darahaas's Stats](https://github-readme-stats.vercel.app/api?username=darahaas15&include_all_commits=true&show_icons=true&count_private=true&title_color=ffffff&theme=radical&text_color=dddddd&card_width=300)
 
