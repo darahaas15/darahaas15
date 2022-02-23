@@ -5,7 +5,7 @@
 <p align="center">
   <a target=_blank href="mailto:darahaas15@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail-new.png"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/darahaas15/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/darahaas15" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/darahaas15/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 -----
