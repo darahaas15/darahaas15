@@ -37,7 +37,7 @@
 
 ### <h3 align="center">Github Stats</h3>
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=darahaas15&show_icons=true&hide_border=false&theme=nightowl&count_private=true" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=darahaas15&show_icons=true&hide_border=false&theme=nightowl&count_private=true" width="48%">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=darahaas15&theme=nightowl" width="48%" >
 </p>
 
