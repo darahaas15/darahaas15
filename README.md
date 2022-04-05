@@ -1,5 +1,5 @@
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+%F0%9F%91%8B+I'm+Darahaas)](https://git.io/typing-svg) </h1>
-
+-----
 
 ### <h3 align="center">Languages and Tools</h3>
 
@@ -21,7 +21,6 @@
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/rust.png"/>
 
 </p>
 
